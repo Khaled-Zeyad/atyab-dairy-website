@@ -32,7 +32,7 @@
     "price": 210,
     "currency": "EGP",
     "image": "/images/products/bocconcini.svg",
-    "featured": true,
+    "featured": false,
     "available": true
   },
   {
