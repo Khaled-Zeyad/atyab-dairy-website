@@ -7,7 +7,7 @@
     "description_en": "Natural mozzarella block with the perfect stretch for pizza and pastries.",
     "price": 180,
     "currency": "EGP",
-    "image": "images/products/classic-block.svg",
+    "image": "/images/products/classic-block.svg",
     "featured": true,
     "available": true
   },
@@ -19,7 +19,7 @@
     "description_en": "Ready-to-use shredded mozzarella with quick, even melt.",
     "price": 150,
     "currency": "EGP",
-    "image": "images/products/shredded.svg",
+    "image": "/images/products/shredded.svg",
     "featured": true,
     "available": true
   },
@@ -31,7 +31,7 @@
     "description_en": "Fresh mini mozzarella balls, perfect for salads and appetizers.",
     "price": 210,
     "currency": "EGP",
-    "image": "images/products/bocconcini.svg",
+    "image": "/images/products/bocconcini.svg",
     "featured": true,
     "available": true
   },
@@ -43,7 +43,7 @@
     "description_en": "Soft texture and rich flavour, served fresh in brine.",
     "price": 260,
     "currency": "EGP",
-    "image": "images/products/buffalo-style.svg",
+    "image": "/images/products/buffalo-style.svg",
     "featured": false,
     "available": true
   },
@@ -55,7 +55,7 @@
     "description_en": "Ready-cut mozzarella slices for sandwiches and burgers.",
     "price": 165,
     "currency": "EGP",
-    "image": "images/products/sliced.svg",
+    "image": "/images/products/sliced.svg",
     "featured": false,
     "available": true
   },
@@ -65,9 +65,9 @@
     "title_en": "Bulk Mozzarella Curd (Food Service)",
     "description_ar": "عبوات مخصصة للمطاعم والفنادق بكميات كبيرة وجودة ثابتة.",
     "description_en": "Bulk packaging for restaurants and hotels with consistent quality.",
-    "price": 950,
+    "price": 900,
     "currency": "EGP",
-    "image": "images/products/bulk-foodservice.svg",
+    "image": "/images/products/bulk-foodservice.svg",
     "featured": false,
     "available": false
   }
