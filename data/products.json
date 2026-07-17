@@ -44,7 +44,7 @@
     "price": 260,
     "currency": "EGP",
     "image": "/images/products/buffalo-style.svg",
-    "featured": false,
+    "featured": true,
     "available": true
   },
   {
