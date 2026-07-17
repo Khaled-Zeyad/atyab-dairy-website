@@ -1,0 +1,80 @@
+# Pages CMS configuration
+# https://pagescms.org
+#
+# This file powers the admin interface used to manage Atyab Mozzarella's
+# products. No login page, database, or custom admin panel is needed —
+# Pages CMS edits data/products.json directly on GitHub, and Cloudflare
+# Pages redeploys the site automatically on every commit.
+#
+# Setup: go to https://app.pagescms.org, sign in with GitHub, install the
+# Pages CMS GitHub App on this repository, then open the repository in
+# Pages CMS. See README.md for the full walkthrough.
+
+media:
+  input: images/products
+  output: /images/products
+
+content:
+  - name: products
+    label: Products
+    type: file
+    path: data/products.json
+    format: json
+    list: true
+    view:
+      fields: [title_en, price, currency, featured, available]
+      primary: title_en
+    fields:
+      - name: id
+        label: ID
+        type: number
+        description: "Unique number for this product. Never reuse an ID that already exists."
+        required: true
+
+      - name: title_ar
+        label: "Title (Arabic)"
+        type: string
+        required: true
+
+      - name: title_en
+        label: "Title (English)"
+        type: string
+        required: true
+
+      - name: description_ar
+        label: "Description (Arabic)"
+        type: text
+        required: true
+
+      - name: description_en
+        label: "Description (English)"
+        type: text
+        required: true
+
+      - name: price
+        label: Price
+        type: number
+        required: true
+
+      - name: currency
+        label: Currency
+        type: string
+        default: EGP
+
+      - name: image
+        label: Product Image
+        type: image
+        description: "Upload a product photo (JPG, PNG, or WebP). WebP is preferred for faster loading."
+        required: true
+
+      - name: featured
+        label: "Featured Product"
+        type: boolean
+        default: false
+        description: "Featured products appear in the Featured Products section on the homepage."
+
+      - name: available
+        label: "Available"
+        type: boolean
+        default: true
+        description: "Turn this off to hide the product's order buttons and mark it as sold out."

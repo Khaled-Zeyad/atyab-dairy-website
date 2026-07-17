@@ -1,0 +1,125 @@
+{
+  "meta": {
+    "home": { "title": "Atyab Mozzarella | Premium Natural Mozzarella Cheese", "description": "Atyab Mozzarella crafts premium natural mozzarella cheese from the finest milk — authentic taste and the perfect stretch for pizza and Italian cooking." },
+    "products": { "title": "Our Products | Atyab Mozzarella", "description": "Browse the full Atyab Mozzarella range and order directly on WhatsApp or by phone." },
+    "about": { "title": "About Us | Atyab Mozzarella", "description": "Learn the story of Atyab Mozzarella and our journey crafting premium natural cheese since day one." },
+    "contact": { "title": "Contact Us | Atyab Mozzarella", "description": "Reach the Atyab Mozzarella team on WhatsApp, by phone, or visit our facility. We're happy to help." },
+    "notFound": { "title": "Page Not Found | Atyab Mozzarella", "description": "The page you're looking for isn't available." }
+  },
+  "brand": { "name": "Atyab Mozzarella" },
+  "nav": { "home": "Home", "products": "Products", "about": "About", "contact": "Contact" },
+  "header": {
+    "call": "Call us",
+    "whatsapp": "WhatsApp",
+    "themeToggle": "Toggle dark mode",
+    "menuToggle": "Open menu",
+    "langAr": "AR",
+    "langEn": "EN"
+  },
+  "hero": {
+    "eyebrow": "100% Natural Cheese",
+    "titleLine1": "A stretch,",
+    "titleEm": " a taste",
+    "titleLine2": " you'll remember",
+    "lead": "Atyab Mozzarella is made fresh daily from carefully selected milk, giving you the perfect stretch and rich flavour in every slice of pizza or Italian dish.",
+    "ctaPrimary": "Order on WhatsApp",
+    "ctaSecondary": "Browse Products",
+    "badgeTitle": "Available to order now",
+    "badgeSubtitle": "Fast delivery across Cairo & Giza",
+    "stat1Num": "7+", "stat1Label": "Years of craft",
+    "stat2Num": "100%", "stat2Label": "Natural milk",
+    "stat3Num": "500+", "stat3Label": "Happy customers"
+  },
+  "aboutTeaser": {
+    "eyebrow": "Our Story",
+    "title": "From Egyptian farms to your table",
+    "body": "We started with a genuine passion for cheesemaking. Today we proudly craft natural mozzarella using traditional methods paired with the highest quality standards — no preservatives, no shortcuts.",
+    "cta": "Read our full story"
+  },
+  "why": {
+    "eyebrow": "Why Atyab",
+    "title": "Quality you can taste",
+    "subtitle": "Every block of mozzarella goes through careful steps to guarantee the finest flavour and texture.",
+    "card1Title": "100% natural ingredients",
+    "card1Body": "Fresh milk only — no preservatives, no artificial colours.",
+    "card2Title": "The perfect stretch",
+    "card2Body": "Smooth pull and even melt that make every dish look professional.",
+    "card3Title": "Fast, reliable delivery",
+    "card3Body": "From our facility to your door, quickly, while staying cold and fresh."
+  },
+  "featured": {
+    "eyebrow": "Featured Products",
+    "title": "A carefully chosen selection",
+    "subtitle": "Our most requested products, loved by our customers.",
+    "viewAll": "View all products"
+  },
+  "ctaBand": {
+    "title": "Ready to order Atyab Mozzarella?",
+    "body": "Reach out on WhatsApp or call us directly, and we'll help you choose the right product for your needs.",
+    "ctaPrimary": "Message us on WhatsApp",
+    "ctaSecondary": "Call now"
+  },
+  "contactHome": {
+    "eyebrow": "Get in touch",
+    "title": "We're happy to help, any time",
+    "subtitle": "Our team is ready to answer your questions and orders through more than one channel.",
+    "phoneLabel": "Call us",
+    "whatsappLabel": "Message us on WhatsApp",
+    "addressLabel": "Visit our facility",
+    "hoursLabel": "Working hours",
+    "cta": "Contact us"
+  },
+  "footer": {
+    "tagline": "Premium natural mozzarella cheese, crafted with passion for your table.",
+    "quickLinks": "Quick Links",
+    "contactTitle": "Contact Information",
+    "hoursTitle": "Working Hours",
+    "followUs": "Follow Us",
+    "rights": "All rights reserved."
+  },
+  "productsPage": {
+    "eyebrow": "Products",
+    "title": "The Atyab Mozzarella range",
+    "subtitle": "Browse all our fresh products and order directly via WhatsApp or a phone call."
+  },
+  "aboutPage": {
+    "eyebrow": "About Us",
+    "title": "Passion for cheese, commitment to quality",
+    "lead": "Atyab Mozzarella is an Egyptian facility dedicated to crafting natural cheese, born from a simple dream: mozzarella that rivals the best in the world.",
+    "storyTitle": "Our Journey",
+    "storyBody": "From day one we chose the harder path: fully natural ingredients, precise production processes, and strict quality control on every single batch. Today, we're proud to be trusted by hundreds of restaurants and households alike.",
+    "year1": "2018", "year1Title": "The Beginning", "year1Body": "We started in a small kitchen with a genuine passion for high-quality natural cheese.",
+    "year2": "2021", "year2Title": "Growth", "year2Body": "We opened our first facility and began partnering with restaurants and hotels.",
+    "year3": "2024", "year3Title": "Today", "year3Body": "We serve hundreds of customers daily while holding the same high quality standards.",
+    "valuesTitle": "The numbers behind us",
+    "value1Num": "7+", "value1Label": "Years of craft",
+    "value2Num": "100%", "value2Label": "Natural ingredients",
+    "value3Num": "500+", "value3Label": "Happy customers",
+    "value4Num": "20+", "value4Label": "Different products"
+  },
+  "contactPage": {
+    "eyebrow": "Contact Us",
+    "title": "Let's hear from you",
+    "subtitle": "Whether it's an order or a question, our team is here to help at any time.",
+    "infoTitle": "Contact Information",
+    "phoneTitle": "Phone",
+    "whatsappTitle": "WhatsApp",
+    "emailTitle": "Email",
+    "addressTitle": "Address",
+    "hoursTitle": "Working Hours",
+    "formTitle": "Send us a message",
+    "nameLabel": "Full name",
+    "namePlaceholder": "Your name",
+    "phoneFieldLabel": "Phone number",
+    "phonePlaceholder": "010 0000 0000",
+    "messageLabel": "Your message",
+    "messagePlaceholder": "Tell us about your order or question...",
+    "submit": "Send via WhatsApp",
+    "formHint": "Your message will be sent directly to the Atyab Mozzarella team on WhatsApp."
+  },
+  "notFoundPage": {
+    "title": "Page not found",
+    "body": "The page you're looking for doesn't seem to exist or has been moved.",
+    "cta": "Back to homepage"
+  }
+}

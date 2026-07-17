@@ -1,0 +1,13 @@
+<svg viewBox="0 0 600 500" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Atyab Mozzarella production">
+  <defs>
+    <linearGradient id="g2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EFE6CE"/>
+      <stop offset="100%" stop-color="#DCC98F"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="500" fill="url(#g2)"/>
+  <rect x="120" y="150" width="360" height="220" rx="20" fill="#FBF7EC" stroke="#96691E" stroke-width="5"/>
+  <circle cx="220" cy="260" r="45" fill="none" stroke="#C08A2E" stroke-width="4"/>
+  <circle cx="330" cy="260" r="45" fill="none" stroke="#C08A2E" stroke-width="4"/>
+  <path d="M180 320 Q300 360 420 320" fill="none" stroke="#C08A2E" stroke-width="4" opacity=".6"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg viewBox="0 0 480 384" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Bulk Mozzarella Curd">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EFE6CE"/>
+      <stop offset="100%" stop-color="#DCC98F"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="384" fill="url(#bg)"/>
+  <rect x="120" y="110" width="240" height="170" rx="14" fill="#FBF7EC" stroke="#96691E" stroke-width="4"/><rect x="120" y="110" width="240" height="40" rx="14" fill="#C08A2E" opacity=".85"/><text x="240" y="136" text-anchor="middle" font-family="Arial" font-size="16" fill="#FBF7EC">ATYAB</text>
+</svg>

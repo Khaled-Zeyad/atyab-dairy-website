@@ -1,0 +1,38 @@
+/* =========================================================
+   ATYAB MOZZARELLA — Responsive rules
+   ========================================================= */
+
+@media (max-width: 1080px) {
+  .hero-grid { grid-template-columns: 1fr; }
+  .hero-visual { order: -1; max-width: 480px; margin-inline: auto; width: 100%; }
+  .grid-3 { grid-template-columns: repeat(2, 1fr); }
+  .products-grid { grid-template-columns: repeat(2, 1fr); }
+  .about-hero { grid-template-columns: 1fr; }
+  .about-hero .media { order: -1; }
+  .contact-grid { grid-template-columns: 1fr; }
+  .footer-grid { grid-template-columns: 1fr 1fr; row-gap: 2.25rem; }
+  .values-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 860px) {
+  .nav-links { display: none; }
+  .lang-switch { display: none; }
+  .hamburger { display: block; }
+}
+
+@media (max-width: 640px) {
+  .grid-3, .products-grid, .grid-2 { grid-template-columns: 1fr; }
+  .footer-grid { grid-template-columns: 1fr; }
+  .values-grid { grid-template-columns: repeat(2, 1fr); }
+  .hero-stats { gap: 1.5rem; }
+  .cta-band { flex-direction: column; align-items: flex-start; text-align: start; }
+  .header-actions .icon-btn:not(.theme-toggle) { display: none; }
+  .fab { width: 52px; height: 52px; }
+  .fab svg { width: 22px; height: 22px; }
+  .product-actions { flex-direction: column; }
+}
+
+@media (max-width: 420px) {
+  .hero-badge { display: none; }
+  .value-pill .num { font-size: 1.6rem; }
+}

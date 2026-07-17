@@ -1,0 +1,10 @@
+<svg viewBox="0 0 480 384" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Buffalo-Style Mozzarella">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#EFE6CE"/>
+      <stop offset="100%" stop-color="#DCC98F"/>
+    </linearGradient>
+  </defs>
+  <rect width="480" height="384" fill="url(#bg)"/>
+  <ellipse cx="240" cy="200" rx="120" ry="80" fill="#FBF7EC" stroke="#96691E" stroke-width="4"/><ellipse cx="240" cy="200" rx="90" ry="55" fill="none" stroke="#C08A2E" stroke-width="2" opacity=".5"/>
+</svg>

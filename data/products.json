@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title_ar": "موتزاريلا كلاسيك",
+    "title_en": "Classic Mozzarella Block",
+    "description_ar": "جبنة موتزاريلا طبيعية بقوام مطاطي مثالي للبيتزا والمعجنات.",
+    "description_en": "Natural mozzarella block with the perfect stretch for pizza and pastries.",
+    "price": 180,
+    "currency": "EGP",
+    "image": "images/products/classic-block.svg",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": 2,
+    "title_ar": "موتزاريلا مبشورة",
+    "title_en": "Shredded Mozzarella",
+    "description_ar": "موتزاريلا مبشورة جاهزة للاستخدام مباشرة، ذوبان متساوٍ وسريع.",
+    "description_en": "Ready-to-use shredded mozzarella with quick, even melt.",
+    "price": 150,
+    "currency": "EGP",
+    "image": "images/products/shredded.svg",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": 3,
+    "title_ar": "بوكونتشيني موتزاريلا",
+    "title_en": "Mozzarella Bocconcini",
+    "description_ar": "كرات موتزاريلا صغيرة طازجة، مثالية للسلطات والمقبلات.",
+    "description_en": "Fresh mini mozzarella balls, perfect for salads and appetizers.",
+    "price": 210,
+    "currency": "EGP",
+    "image": "images/products/bocconcini.svg",
+    "featured": true,
+    "available": true
+  },
+  {
+    "id": 4,
+    "title_ar": "موتزاريلا بوفالو",
+    "title_en": "Buffalo-Style Mozzarella",
+    "description_ar": "قوام طري وطعم غني، تُقدَّم طازجة في ماء الملح.",
+    "description_en": "Soft texture and rich flavour, served fresh in brine.",
+    "price": 260,
+    "currency": "EGP",
+    "image": "images/products/buffalo-style.svg",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 5,
+    "title_ar": "موتزاريلا شرائح",
+    "title_en": "Sliced Mozzarella",
+    "description_ar": "شرائح موتزاريلا جاهزة للساندويتشات والبرجر.",
+    "description_en": "Ready-cut mozzarella slices for sandwiches and burgers.",
+    "price": 165,
+    "currency": "EGP",
+    "image": "images/products/sliced.svg",
+    "featured": false,
+    "available": true
+  },
+  {
+    "id": 6,
+    "title_ar": "عجينة موتزاريلا للمطاعم",
+    "title_en": "Bulk Mozzarella Curd (Food Service)",
+    "description_ar": "عبوات مخصصة للمطاعم والفنادق بكميات كبيرة وجودة ثابتة.",
+    "description_en": "Bulk packaging for restaurants and hotels with consistent quality.",
+    "price": 950,
+    "currency": "EGP",
+    "image": "images/products/bulk-foodservice.svg",
+    "featured": false,
+    "available": false
+  }
+]
