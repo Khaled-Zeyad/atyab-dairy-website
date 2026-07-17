@@ -57,7 +57,7 @@
     "currency": "EGP",
     "image": "/images/products/sliced.svg",
     "featured": false,
-    "available": true
+    "available": false
   },
   {
     "id": 6,
